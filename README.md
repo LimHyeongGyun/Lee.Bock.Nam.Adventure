@@ -1,7 +1,7 @@
 <!-- HEADER --!>
 <div align="center">
 <h1> Lee.Bock.Nam.Adventure </h1>
-<div align=center> <img src="./ImageFolder/GameImg.png" width="70%" heigh="30%"> </div>
+<div align=center> <img src="./ImageFolder/StartImg.png" width="70%" heigh="30%"> </div>
 </div>
 <li> 개발기간: 2023.03.02 ~ 2024.06.21
 <li> 개발인원: 기획:1 아트:1 프로그래머:2
@@ -41,9 +41,9 @@
 
 <h2 id="screen-shot"> 5. 스크린샷</h2>
 <div align="center">
-<img src="./ImageFolder/StoryImg.png" width="49%" heigh="400"></a>
 <img src="./ImageFolder/SelectImg.png" width="49%" heigh="400"></a>
-<img src="./ImageFolder/StartImg.png" width="49%" heigh="400"></a>
+<img src="./ImageFolder/LobbyImg.png" width="49%" heigh="400"></a>
+<img src="./ImageFolder/MapSelectImg.png" width="49%" heigh="400"></a>
 <img src="./ImageFolder/PlayImg.png" width="49%" heigh="400"><br>
 
 <게임 플레이 사진>

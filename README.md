@@ -50,4 +50,4 @@
 </div>
 
 <h2 id="download-link"> 6.게임 다운로드</h2>
-<li>
+<li>https://drive.google.com/drive/folders/19D3dus6XNWp2L040CYFmcEPBjBKrdrGM

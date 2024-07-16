@@ -28,6 +28,7 @@
 
 <h2 id="overview"> 2. 게임개요 </h2>
 <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 클라이언트 개발을 담당하고 있습니다. 몬스터움직임과 기능, 데이터 저장, 게임시스템 담당하였습니다.
+
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Lee.Bock.Nam.Adventure/Assets/) </h2>

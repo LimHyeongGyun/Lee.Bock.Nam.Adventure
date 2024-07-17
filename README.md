@@ -31,7 +31,9 @@
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Lee.Bock.Nam.Adventure/Assets/) </h2>
-<li><b>/Draw</b> - </li>
+<li><b>/Enemy</b> - 몬스터의 움직임 및 오브젝트 풀링기능</li>
+<li><b>/Manager</b> - 데이터와 게임동작에 관한 매니저</li>
+<li><b>/System</b> - 게임시스템의 전반적인 기</li>
 
 <h2 id="tech"> 4. 기술/프레임워크 </h2>
 <li>Programming <img src="https://img.shields.io/badge/C%23-99CC00?style=for-the-badge"></li>

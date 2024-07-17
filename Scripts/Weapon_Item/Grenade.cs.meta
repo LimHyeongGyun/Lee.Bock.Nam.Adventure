@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6a248c76dc5f5c42be9ec4adf1d9f6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meshObj: {fileID: 8347351535570733868, guid: f308c08f54ddc7e44b97416adb02ec2c, type: 3}
+  - effectObj: {fileID: 1450292646421823667, guid: 0c28f433436501641acb8c98807e6430, type: 3}
+  - rigid: {fileID: 5100016084579390836, guid: c7a56a265c1317f4f9a09516707023b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

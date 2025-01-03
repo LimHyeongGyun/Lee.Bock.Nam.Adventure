@@ -26,8 +26,13 @@
 <p>이.복.남의 모험은 로그라이트RPG입니다.<br>
 전사, 궁수, 마법사 직업을 가진 이, 복, 남이 함께 세상 곳곳에 퍼진 몬스터를 물리치기 위해 모험을 떠나는 게임입니다.</p>
 
-<h2 id="overview"> 2. 게임개요 </h2>
-<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 클라이언트 개발을 담당하고 있습니다. 몬스터움직임과 기능, 데이터 저장, 게임시스템 담당하였습니다.<br>
+<h2 id="overview"> 2. 담당업무 </h2>
+<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 클라이언트 개발을 담당하고 있습니다.<br>
+게임 기획 및 설계<br>
+몬스터 행동패턴 구현<br>
+오브젝트풀링 구현<br>
+게임시스템 구현<br>
+클라이언트 메인 프로그래밍<br>
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Lee.Bock.Nam.Adventure/Assets/) </h2>
